@@ -1,0 +1,10 @@
+.gradle/
+*/.gradle/
+.kotlin/
+*/.kotlin/
+build/
+*/build/
+bin/
+*/bin/
+src/main/generated/
+*/src/main/generated/
